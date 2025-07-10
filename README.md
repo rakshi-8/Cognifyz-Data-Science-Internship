@@ -13,5 +13,3 @@ This repository contains all the completed tasks for **Level 1** and **Level 3**
 - 🔴 Task 1: Predictive Modeling
 - 🔴 Task 2: Customer Preference Analysis
 - 🔴 Task 3: Data Visualization
-
-## 📁 Folder Structure
